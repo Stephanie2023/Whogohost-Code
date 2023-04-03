@@ -110,16 +110,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-::placeholder{
-    /* font-size: 19px; */
-    /* color: #fff; */
-    /* padding-left: 10px; */
-}
-
-.form-control{
-    /* background-color: rgba(0, 0, 0, 0); */
-}
-
 .search_logo{
     width: 23px;
     padding-bottom: 2px;
